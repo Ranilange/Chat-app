@@ -15,9 +15,10 @@ https://user-images.githubusercontent.com/110329486/206903506-74a379f5-6097-4c32
 
 ### Client-side:
 * React.JS
-*socket.io
+* socket.io
 
 ### Server-side
- *express
- *socket.io
+ * express
+ 
+ * socket.io
 
